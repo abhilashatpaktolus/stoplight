@@ -1,0 +1,2598 @@
+{
+  "lessons": {
+    "lesson_1": {
+      "lesson_id": "59416",
+      "name": "Basic Operation",
+      "order": "0",
+      "is_complete": false,
+      "is_active": false,
+      "resources": {
+        "resource_1": {
+          "resource_id": "547223",
+          "name": "Orientation",
+          "is_complete": false,
+          "is_active": false,
+          "resource_info": {
+            "name": "Orientation",
+            "type": "Content HTML",
+            "content_time": 0,
+            "percent_completed": 0,
+            "is_complete": false,
+            "is_active": false,
+            "resource_details": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+          },
+          "practice_quiz": {
+            "quiz_id": "31894",
+            "name": "Practice Quiz 1",
+            "total_points": "11.00",
+            "is_complete": false,
+            "is_active": false,
+            "question_1": {
+              "question_id": "18561",
+              "name": "How many folding aisle seats are allowed in a bus that is not carrying farm workers? 4.1",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "multi_choice",
+              "default_grade": "5.00",
+              "general_feedback": "People sometimes damage unattended buses.Always check the interior of the bus before driving to ensure rider safety. Aisles and stairwells should always be clear. The following parts of your bus must be in safe working condition:Each handhold and railing.\nFloor covering.Signaling devices, including the restroom emergency buzzer, if the bus has a restroom.Emergency exit handles.The seats must be safe for riders. All seats must be securely fastened to the bus.",
+              "options": [
+                {
+                  "answer_id": "32537",
+                  "answer": "0  ",
+                  "fraction": "1",
+                  "ans_order": "1",
+                  "is_answer": true,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "32538",
+                  "answer": "4  ",
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "32539",
+                  "answer": "6  ",
+                  "fraction": "0",
+                  "ans_order": "3",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "32540",
+                  "answer": "8  ",
+                  "fraction": "0",
+                  "ans_order": "4",
+                  "is_answer": false,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_2": {
+              "question_id": "18562",
+              "name": "A bus may carry baggage and freight only if secured so: 4.2",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "multi_choice",
+              "default_grade": "5.00",
+              "general_feedback": "4.2.1 Do not allow riders to leave carry-on baggage in a doorway or aisle. There should be nothing in the aisle that might trip other riders. Secure baggage and freight in ways that avoid damage and: Allow the driver to move freely and easily.\n. Allow riders to exit by any window or door in an emergency. Protect riders from injury if carry-ons fall or shift.",
+              "options": [
+                {
+                  "answer_id": "32541",
+                  "answer": "the driver can move freely and easily.",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "32542",
+                  "answer": "any rider can use any door or window in an emergency.",
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "32543",
+                  "answer": "riders are protected from falling or shifting packages.",
+                  "fraction": "0",
+                  "ans_order": "3",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "32544",
+                  "answer": "all of the above are true.",
+                  "fraction": "1",
+                  "ans_order": "4",
+                  "is_answer": true,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_3": {
+              "question_id": "19417",
+              "name": "A tractor frame services much of the same purpose as the skeleton of the human body. It prvides support for other parts of the system.",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "true_false",
+              "default_grade": "1.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34946",
+                  "answer": "True",
+                  "fraction": "1",
+                  "ans_order": "1",
+                  "is_answer": true,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34947",
+                  "answer": false,
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                }
+              ]
+            }
+          }
+        },
+        "resource_2": {
+          "resource_id": "547224",
+          "name": "Control System Dashboard",
+          "is_complete": false,
+          "is_active": false,
+          "resource_info": {
+            "name": "Control System Dashboard",
+            "type": "Content HTML",
+            "content_time": 0,
+            "percent_completed": 0,
+            "is_complete": false,
+            "is_active": false,
+            "resource_details": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+          },
+          "practice_quiz": {
+            "quiz_id": "32135",
+            "name": "Practise test 2",
+            "total_points": "40.00",
+            "is_complete": false,
+            "is_active": false,
+            "question_1": {
+              "question_id": "19268",
+              "name": "On-duty time may include many activities in addition to driving.",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "true_false",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34454",
+                  "answer": "True",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34455",
+                  "answer": false,
+                  "fraction": "1",
+                  "ans_order": "2",
+                  "is_answer": true,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_2": {
+              "question_id": "19271",
+              "name": "The driver's log is the only method permitted by federal law to record a driver's duty status.",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "true_false",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34460",
+                  "answer": "True",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34461",
+                  "answer": false,
+                  "fraction": "1",
+                  "ans_order": "2",
+                  "is_answer": true,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_3": {
+              "question_id": "19276",
+              "name": "According to the FMCSR, you may not drive for more than",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "multi_choice",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34470",
+                  "answer": "15 hours",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34471",
+                  "answer": "8 hours",
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34472",
+                  "answer": "11 hours",
+                  "fraction": "1",
+                  "ans_order": "3",
+                  "is_answer": true,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_4": {
+              "question_id": "19278",
+              "name": "After 11 hours of driving you must",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "multi_choice",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34476",
+                  "answer": "stop working and go home",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34477",
+                  "answer": "work 5 more hours",
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34478",
+                  "answer": "get 10 consecutive hours of rest before driving again",
+                  "fraction": "1",
+                  "ans_order": "3",
+                  "is_answer": true,
+                  "user_answer": false
+                }
+              ]
+            }
+          }
+        }
+      },
+      "module_questions": {
+        "quiz_id": "31893",
+        "name": " State Simulated Exam School Bus",
+        "total_points": "100.00",
+        "is_complete": false,
+        "is_active": false,
+        "review_question": {
+          "question_1": {
+            "question_id": "18608",
+            "name": "All school buses have danger zones, which are areas where children are more likely to be injured. The danger zones may extend as much as _____ feet from the front bumper. But the first ____ feet are the most dangerous. 10.1.1\t",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "The danger zone is the area on all sides of the bus where children are in the most danger of being hit, either by another vehicle or their own bus. The danger zones may extend as much as 30 feet from the front bumper with the first 10 feet being the most dangerous, 10 feet from the left and right sides of the bus and 10 feet behind the rear bumper of the school bus. In addition, the area to the left of the bus is always considered dangerous because of passing cars. Figure 10.1 illustrates these danger zones.",
+            "options": [
+              {
+                "answer_id": "31998",
+                "answer": "20:10",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31999",
+                "answer": "30:10",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32000",
+                "answer": "20:15",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32001",
+                "answer": "30:15",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_2": {
+            "question_id": "18609",
+            "name": "The area to the left of the bus is always considered dangerous because: 10.1.1\t",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": " In addition, the area to the left of the bus is always considered dangerous because of passing cars.  Figure 10.1 illustrates thesedanger zones.",
+            "options": [
+              {
+                "answer_id": "32002",
+                "answer": "The students exit the bus",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32003",
+                "answer": "The passing vehicles",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32004",
+                "answer": "The driver cannot see cars approaching",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32005",
+                "answer": "The area is a blind spot for the driver",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_3": {
+            "question_id": "18610",
+            "name": "The blind spot behind the bus extends from _____ to _____ feet. 10.1.3\t",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "The blind spot behind the bus extends 50 to 150 feet and could extend up to 400 feet depending on the length and width of the bus. ",
+            "options": [
+              {
+                "answer_id": "32006",
+                "answer": "100:150",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32007",
+                "answer": "50:100",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32008",
+                "answer": "25:50",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32009",
+                "answer": "25:75",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_4": {
+            "question_id": "18611",
+            "name": "Outside flat mirrors should be adjusted so the driver can see: 10.1.3\t",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "Ensure that the mirrors are properly adjusted so you can see: 200 feet or 4 bus lengths behind the bus. Along  the sides of the bus. The rear tires touching the ground. ",
+            "options": [
+              {
+                "answer_id": "32010",
+                "answer": "200 feet or 4 bus lengths behind the bus",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32011",
+                "answer": "along the side of the bus",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32012",
+                "answer": "the rear tires touching the ground",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32013",
+                "answer": "all the above are correct",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          }
+        }
+      }
+    },
+    "lesson_2": {
+      "lesson_id": "59417",
+      "name": "Safe Operating",
+      "order": "0",
+      "is_complete": false,
+      "is_active": false,
+      "resources": {
+        "resource_1": {
+          "resource_id": "547223",
+          "name": "Orientation",
+          "is_complete": false,
+          "is_active": false,
+          "resource_info": {
+            "name": "Orientation",
+            "type": "Content HTML",
+            "content_time": 0,
+            "percent_completed": 0,
+            "is_complete": false,
+            "is_active": false,
+            "resource_details": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+          },
+          "practice_quiz": {
+            "quiz_id": "31894",
+            "name": "Practice Quiz 1",
+            "total_points": "11.00",
+            "is_complete": false,
+            "is_active": false,
+            "question_1": {
+              "question_id": "18561",
+              "name": "How many folding aisle seats are allowed in a bus that is not carrying farm workers? 4.1",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "multi_choice",
+              "default_grade": "5.00",
+              "general_feedback": "People sometimes damage unattended buses.Always check the interior of the bus before driving to ensure rider safety. Aisles and stairwells should always be clear. The following parts of your bus must be in safe working condition:Each handhold and railing.\nFloor covering.Signaling devices, including the restroom emergency buzzer, if the bus has a restroom.Emergency exit handles.The seats must be safe for riders. All seats must be securely fastened to the bus.",
+              "options": [
+                {
+                  "answer_id": "32537",
+                  "answer": "0  ",
+                  "fraction": "1",
+                  "ans_order": "1",
+                  "is_answer": true,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "32538",
+                  "answer": "4  ",
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "32539",
+                  "answer": "6  ",
+                  "fraction": "0",
+                  "ans_order": "3",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "32540",
+                  "answer": "8  ",
+                  "fraction": "0",
+                  "ans_order": "4",
+                  "is_answer": false,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_2": {
+              "question_id": "18562",
+              "name": "A bus may carry baggage and freight only if secured so: 4.2",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "multi_choice",
+              "default_grade": "5.00",
+              "general_feedback": "4.2.1 Do not allow riders to leave carry-on baggage in a doorway or aisle. There should be nothing in the aisle that might trip other riders. Secure baggage and freight in ways that avoid damage and: Allow the driver to move freely and easily.\n. Allow riders to exit by any window or door in an emergency. Protect riders from injury if carry-ons fall or shift.",
+              "options": [
+                {
+                  "answer_id": "32541",
+                  "answer": "the driver can move freely and easily.",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "32542",
+                  "answer": "any rider can use any door or window in an emergency.",
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "32543",
+                  "answer": "riders are protected from falling or shifting packages.",
+                  "fraction": "0",
+                  "ans_order": "3",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "32544",
+                  "answer": "all of the above are true.",
+                  "fraction": "1",
+                  "ans_order": "4",
+                  "is_answer": true,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_3": {
+              "question_id": "19417",
+              "name": "A tractor frame services much of the same purpose as the skeleton of the human body. It prvides support for other parts of the system.",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "true_false",
+              "default_grade": "1.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34946",
+                  "answer": "True",
+                  "fraction": "1",
+                  "ans_order": "1",
+                  "is_answer": true,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34947",
+                  "answer": false,
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                }
+              ]
+            }
+          }
+        },
+        "resource_2": {
+          "resource_id": "547224",
+          "name": "Control System Dashboard",
+          "is_complete": false,
+          "is_active": false,
+          "resource_info": {
+            "name": "Control System Dashboard",
+            "type": "File",
+            "content_time": 0,
+            "percent_completed": 0,
+            "is_complete": false,
+            "is_active": false,
+            "resource_details": "http://s3.amazonaws.com/lms_s3/5/instructor_repository/3121/mp4/piHoc4df05.mp4"
+          },
+          "practice_quiz": {
+            "quiz_id": "32135",
+            "name": "Practise test 2",
+            "total_points": "40.00",
+            "is_complete": false,
+            "is_active": false,
+            "question_1": {
+              "question_id": "19268",
+              "name": "On-duty time may include many activities in addition to driving.",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "true_false",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34454",
+                  "answer": "True",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34455",
+                  "answer": false,
+                  "fraction": "1",
+                  "ans_order": "2",
+                  "is_answer": true,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_2": {
+              "question_id": "19271",
+              "name": "The driver's log is the only method permitted by federal law to record a driver's duty status.",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "true_false",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34460",
+                  "answer": "True",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34461",
+                  "answer": false,
+                  "fraction": "1",
+                  "ans_order": "2",
+                  "is_answer": true,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_3": {
+              "question_id": "19276",
+              "name": "According to the FMCSR, you may not drive for more than",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "multi_choice",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34470",
+                  "answer": "15 hours",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34471",
+                  "answer": "8 hours",
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34472",
+                  "answer": "11 hours",
+                  "fraction": "1",
+                  "ans_order": "3",
+                  "is_answer": true,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_4": {
+              "question_id": "19278",
+              "name": "After 11 hours of driving you must",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "multi_choice",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34476",
+                  "answer": "stop working and go home",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34477",
+                  "answer": "work 5 more hours",
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34478",
+                  "answer": "get 10 consecutive hours of rest before driving again",
+                  "fraction": "1",
+                  "ans_order": "3",
+                  "is_answer": true,
+                  "user_answer": false
+                }
+              ]
+            }
+          }
+        },
+        "resource_3": {
+          "resource_id": "547225",
+          "name": "Basic Control",
+          "is_complete": false,
+          "is_active": false,
+          "resource_info": {
+            "name": "Basic Control",
+            "type": "Content HTML",
+            "content_time": 0,
+            "percent_completed": 0,
+            "is_complete": false,
+            "is_active": false,
+            "resource_details": "<p>&lt;p&gt;&lt;span style=\\\"font-family: Calibri; color: black; font-size: 15pt; font-weight: bold; language: en-US; mso-ascii-font-family: Calibri; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; mso-color-index: 1; mso-font-kerning: 12.0pt; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\\\"&gt;Knowing When to Shift Up.&amp;nbsp;&lt;/span&gt;&lt;span style=\\\"font-family: Calibri; color: black; font-size: 15pt; language: en-US; mso-ascii-font-family: Calibri; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; mso-color-index: 1; mso-font-kerning: 12.0pt; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\\\"&gt;There are two ways of knowing when to shift:&lt;/span&gt;&lt;/p&gt;<br />&lt;p style=\\\"text-align: left; margin-top: 3.6pt; text-indent: -0.38in; unicode-bidi: embed; direction: ltr; margin-bottom: 0pt; margin-left: 0.38in; word-break: normal; language: en-US; mso-line-break-override: none; punctuation-wrap: hanging;\\\"&gt;&amp;nbsp;&lt;/p&gt;<br />&lt;p class=\\\"MsoNormal\\\" style=\\\"text-indent: -0.25in; margin: 0in 0in 10pt 0.5in; mso-list: l1 level1 lfo1; tab-stops: list .5in;\\\"&gt;&lt;span&gt;&lt;span&gt;&lt;span style=\\\"font-size: small;\\\"&gt;&bull;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=\\\"font-family: Calibri; color: black; font-size: 15pt; font-weight: bold; language: en-US; mso-ascii-font-family: Calibri; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; mso-color-index: 1; mso-font-kerning: 12.0pt; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\\\"&gt;Use Engine Speed (rpm).&lt;/span&gt;&lt;span style=\\\"font-family: Calibri; color: black; font-size: 15pt; language: en-US; mso-ascii-font-family: Calibri; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; mso-color-index: 1; mso-font-kerning: 12.0pt; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\\\"&gt;&amp;nbsp;Study the driver\\'s manual for your vehicle and learn the operating rpm range. Watch your tachometer, and shift up when your engine reaches the top of the range. (Some newer vehicles use \\\"progressive\\\" shifting: the rpm at which you shift becomes higher as you move up in the gears. Find out what\\'s right for the vehicle you will operate.)&lt;/span&gt;&lt;/p&gt;<br />&lt;p class=\\\"MsoNormal\\\" style=\\\"text-indent: -0.25in; margin: 0in 0in 10pt 0.5in; mso-list: l1 level1 lfo1; tab-stops: list .5in;\\\"&gt;&lt;span&gt;&lt;span&gt;&lt;span style=\\\"font-size: small;\\\"&gt;&bull;&lt;/span&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=\\\"font-family: Calibri; color: black; font-size: 15pt; font-weight: bold; language: en-US; mso-ascii-font-family: Calibri; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; mso-color-index: 1; mso-font-kerning: 12.0pt; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\\\"&gt;Use Road Speed (mph).&amp;nbsp;&lt;/span&gt;&lt;span style=\\\"font-family: Calibri; color: black; font-size: 15pt; language: en-US; mso-ascii-font-family: Calibri; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; mso-color-index: 1; mso-font-kerning: 12.0pt; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\\\"&gt;Learn what speeds each gear is good for. Then, by using the speedometer, you\\'ll know when to shift up.&lt;/span&gt;&lt;/p&gt;<br />&lt;p style=\\\"text-align: left; margin-top: 3.6pt; text-indent: -0.38in; unicode-bidi: embed; direction: ltr; margin-bottom: 0pt; margin-left: 0.38in; word-break: normal; language: en-US; mso-line-break-override: none; punctuation-wrap: hanging;\\\"&gt;&lt;span style=\\\"font-family: Calibri; color: black; font-size: 15pt; language: en-US; mso-ascii-font-family: Calibri; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; mso-color-index: 1; mso-font-kerning: 12.0pt; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;\\\"&gt;With either method, you may learn to use engine sounds to know when to shift.&lt;br&gt;&lt;br&gt;&lt;img src=\\\"http://www.cdlschoolonline.com/images/library/progressive%20shifting.JPG\\\" alt=\\\"progressive shifting\\\" width=\\\"812\\\" height=\\\"544\\\"&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;</p>"
+          },
+          "practice_quiz": {
+            "quiz_id": "32136",
+            "name": "Practise test 3",
+            "total_points": "40.00",
+            "is_complete": false,
+            "is_active": false,
+            "question_1": {
+              "question_id": "19270",
+              "name": "In the event of unexpected bad weather, a driver may be permitted to drive two extra hours to reach the original destination or a safe place to park the rig.",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "true_false",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34458",
+                  "answer": "True",
+                  "fraction": "1",
+                  "ans_order": "1",
+                  "is_answer": true,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34459",
+                  "answer": false,
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_2": {
+              "question_id": "19271",
+              "name": "The driver's log is the only method permitted by federal law to record a driver's duty status.",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "true_false",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34460",
+                  "answer": "True",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34461",
+                  "answer": false,
+                  "fraction": "1",
+                  "ans_order": "2",
+                  "is_answer": true,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_3": {
+              "question_id": "19351",
+              "name": "Your steering axle is 11600lbs, drive axle is 34600lbs and the tandem weighs 32300lbs; for a total gross weight of 78500lbs. Calculate how many holes you must move on your tandem axle.",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "multi_choice",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34668",
+                  "answer": "4 to Drive",
+                  "fraction": "1",
+                  "ans_order": "1",
+                  "is_answer": true,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34669",
+                  "answer": "5 to Tandem",
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34670",
+                  "answer": "6 to Drive",
+                  "fraction": "0",
+                  "ans_order": "3",
+                  "is_answer": false,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_4": {
+              "question_id": "19361",
+              "name": "After 11 hours of driving you must",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "multi_choice",
+              "default_grade": "10.00",
+              "general_feedback": "refer to section 1.4.2 of this course",
+              "options": [
+                {
+                  "answer_id": "34698",
+                  "answer": "stop working and go home",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34699",
+                  "answer": "work 5 more hours",
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34700",
+                  "answer": "get 10 consecutive hours of rest before driving again",
+                  "fraction": "1",
+                  "ans_order": "3",
+                  "is_answer": true,
+                  "user_answer": false
+                }
+              ]
+            }
+          }
+        },
+        "resource_4": {
+          "resource_id": "547226",
+          "name": "Shifiting/Operating Transmission",
+          "is_complete": false,
+          "is_active": false,
+          "resource_info": {
+            "name": "Shifiting/Operating Transmission",
+            "type": "Content HTML",
+            "content_time": 0,
+            "percent_completed": 0,
+            "is_complete": false,
+            "is_active": false,
+            "resource_details": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+          },
+          "practice_quiz": {
+            "quiz_id": "32137",
+            "name": "Practise test 4",
+            "total_points": "40.00",
+            "is_complete": false,
+            "is_active": false,
+            "question_1": {
+              "question_id": "19272",
+              "name": "The carrier's time records may be used to record a driver's duty status when the driver operates within a 100-mile radius of the home terminal.",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "true_false",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34462",
+                  "answer": "True",
+                  "fraction": "1",
+                  "ans_order": "1",
+                  "is_answer": true,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34463",
+                  "answer": false,
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_2": {
+              "question_id": "19273",
+              "name": "The driver's log is the most commonly used record of duty status for tractor-trailer drivers.",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "true_false",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34464",
+                  "answer": "True",
+                  "fraction": "1",
+                  "ans_order": "1",
+                  "is_answer": true,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34465",
+                  "answer": false,
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_3": {
+              "question_id": "19279",
+              "name": "You may reset you 60/70 hour clock after having ______ consecutive hours off-duty.",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "multi_choice",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34479",
+                  "answer": "10",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34480",
+                  "answer": "34",
+                  "fraction": "1",
+                  "ans_order": "2",
+                  "is_answer": true,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34481",
+                  "answer": "14",
+                  "fraction": "0",
+                  "ans_order": "3",
+                  "is_answer": false,
+                  "user_answer": false
+                }
+              ]
+            },
+            "question_4": {
+              "question_id": "19280",
+              "name": "On-duty time",
+              "is_complete": false,
+              "is_active": false,
+              "question_type": "multi_choice",
+              "default_grade": "10.00",
+              "general_feedback": "",
+              "options": [
+                {
+                  "answer_id": "34482",
+                  "answer": "may not exceed 8 hours",
+                  "fraction": "0",
+                  "ans_order": "1",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34483",
+                  "answer": "may not exceed 10 hours",
+                  "fraction": "0",
+                  "ans_order": "2",
+                  "is_answer": false,
+                  "user_answer": false
+                },
+                {
+                  "answer_id": "34484",
+                  "answer": "includes time spent working for another employer",
+                  "fraction": "1",
+                  "ans_order": "3",
+                  "is_answer": true,
+                  "user_answer": false
+                }
+              ]
+            }
+          }
+        }
+      },
+      "module_questions": {
+        "quiz_id": "31893",
+        "name": " State Simulated Exam School Bus",
+        "total_points": "100.00",
+        "is_complete": false,
+        "is_active": false,
+        "review_question": {
+          "question_1": {
+            "question_id": "18608",
+            "name": "All school buses have danger zones, which are areas where children are more likely to be injured. The danger zones may extend as much as _____ feet from the front bumper. But the first ____ feet are the most dangerous. 10.1.1\t",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "The danger zone is the area on all sides of the bus where children are in the most danger of being hit, either by another vehicle or their own bus. The danger zones may extend as much as 30 feet from the front bumper with the first 10 feet being the most dangerous, 10 feet from the left and right sides of the bus and 10 feet behind the rear bumper of the school bus. In addition, the area to the left of the bus is always considered dangerous because of passing cars. Figure 10.1 illustrates these danger zones.",
+            "options": [
+              {
+                "answer_id": "31998",
+                "answer": "20:10",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31999",
+                "answer": "30:10",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32000",
+                "answer": "20:15",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32001",
+                "answer": "30:15",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_2": {
+            "question_id": "18609",
+            "name": "The area to the left of the bus is always considered dangerous because: 10.1.1\t",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": " In addition, the area to the left of the bus is always considered dangerous because of passing cars.  Figure 10.1 illustrates thesedanger zones.",
+            "options": [
+              {
+                "answer_id": "32002",
+                "answer": "The students exit the bus",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32003",
+                "answer": "The passing vehicles",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32004",
+                "answer": "The driver cannot see cars approaching",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32005",
+                "answer": "The area is a blind spot for the driver",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_3": {
+            "question_id": "18610",
+            "name": "The blind spot behind the bus extends from _____ to _____ feet. 10.1.3\t",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "The blind spot behind the bus extends 50 to 150 feet and could extend up to 400 feet depending on the length and width of the bus. ",
+            "options": [
+              {
+                "answer_id": "32006",
+                "answer": "100:150",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32007",
+                "answer": "50:100",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32008",
+                "answer": "25:50",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32009",
+                "answer": "25:75",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_4": {
+            "question_id": "18611",
+            "name": "Outside flat mirrors should be adjusted so the driver can see: 10.1.3\t",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "Ensure that the mirrors are properly adjusted so you can see: 200 feet or 4 bus lengths behind the bus. Along  the sides of the bus. The rear tires touching the ground. ",
+            "options": [
+              {
+                "answer_id": "32010",
+                "answer": "200 feet or 4 bus lengths behind the bus",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32011",
+                "answer": "along the side of the bus",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32012",
+                "answer": "the rear tires touching the ground",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32013",
+                "answer": "all the above are correct",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_5": {
+            "question_id": "18612",
+            "name": "The crossover mirrors are used to see the danger zones ______ that are not seen by direct vision. 10.1.5\t",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "These mirrors are mounted on both left and right front corners of the bus. They are used to see the front bumper \"danger zone\" area directly in front of the bus that is not visible by direct vision",
+            "options": [
+              {
+                "answer_id": "32014",
+                "answer": "Directly in front of the bus",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32015",
+                "answer": "Directly to the right and left of the bus",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32016",
+                "answer": "Directly behind the bus",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32017",
+                "answer": "Both a and b are correct",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_6": {
+            "question_id": "18613",
+            "name": "The overhead mirror is used to monitor what? 10.1.6",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "This mirror is used to monitor passenger activity inside the bus.",
+            "options": [
+              {
+                "answer_id": "32018",
+                "answer": "The danger zones",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32019",
+                "answer": "The emergency exits",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32020",
+                "answer": "The passenger activity",
+                "fraction": "1",
+                "ans_order": "3",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32021",
+                "answer": "The student entry way",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_7": {
+            "question_id": "18614",
+            "name": "You can change the location of a bus stop: 10.2.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "You should never change the location of a bus stop without written approval from the appropriate school district official.",
+            "options": [
+              {
+                "answer_id": "32022",
+                "answer": "Anytime as long as you feel it is safe",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32023",
+                "answer": "At the students request",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32024",
+                "answer": "At the parents request",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32025",
+                "answer": "Only with written approval from the school district",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_8": {
+            "question_id": "18615",
+            "name": "If the school bus is equipped with alternating flashing amber warning lights, they should be activated at least _____ feet before the bus stop. 10.2.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "If the school bus is so equipped, activate alternating flashing amber warning lights at least 200 feet or approximately 5-10 seconds before the school bus stop or in accordance with state law.",
+            "options": [
+              {
+                "answer_id": "32026",
+                "answer": "50",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32027",
+                "answer": "100",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32028",
+                "answer": "150",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32029",
+                "answer": "200",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_9": {
+            "question_id": "18616",
+            "name": "When approaching a bus stop, you should bring the bus to a full stop at least _____ feet away from the students. 10.2.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "Bring school bus to a full stop with the front bumper at least 10 feet away from students at the designated stop.",
+            "options": [
+              {
+                "answer_id": "32030",
+                "answer": "5",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32031",
+                "answer": "10",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32032",
+                "answer": "15",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32033",
+                "answer": "20",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_10": {
+            "question_id": "18617",
+            "name": "When the students are entering or exiting the bus, the vehicle must be in _____ and _____. 10.2.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "Place transmission in Park, or if there is no Park shift point, in Neutral and set the parking brake at each stop.",
+            "options": [
+              {
+                "answer_id": "32034",
+                "answer": "Drive: the parking brake on",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32035",
+                "answer": "Park/neutral: the parking brake has to be on",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32036",
+                "answer": "Drive: your foot firmly on the brake pedal",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32037",
+                "answer": "Park/neutral: your foot firmly on the brake pedal",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_11": {
+            "question_id": "18618",
+            "name": "When the students are unloading on the school campus: 10.2.4",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "Turning off the ignition switch. Removing key if leaving driver's compartment. Have the students remain seated until told to exit. Position yourself to supervise unloading as required or recommended by your state or local regulations.",
+            "options": [
+              {
+                "answer_id": "32042",
+                "answer": "Turn the ignition off",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32043",
+                "answer": "Remove the key if leaving the drivers compartment",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32044",
+                "answer": "Supervise the unloading student",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32045",
+                "answer": "All the above are correct",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_12": {
+            "question_id": "18619",
+            "name": "Many students are killed each year: 10.2.5",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "More students are killed while getting on or off a school bus each year than are killed as passengers inside of a school bus.",
+            "options": [
+              {
+                "answer_id": "32046",
+                "answer": "when crossing the street in front of the bus",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32047",
+                "answer": "by cars passing illegally",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32048",
+                "answer": "while getting on or off the bus",
+                "fraction": "1",
+                "ans_order": "3",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32049",
+                "answer": "during fights on the bus",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_13": {
+            "question_id": "18620",
+            "name": "The first action you must take in an emergency is: 10.3.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "The first and most important consideration is for you to recognize the hazard. If time permits, school bus drivers should contact their dispatcher to explain the situation before making a decision to evacuate the school bus.",
+            "options": [
+              {
+                "answer_id": "32050",
+                "answer": "make the student be quiet",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32051",
+                "answer": "determine if you must evacuate",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32052",
+                "answer": "get everyone off quickly",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32053",
+                "answer": "tend to the injured",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_14": {
+            "question_id": "18621",
+            "name": "All the follow are reasons for an mandatory evacuation, except: 10.3.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "A decision to evacuate should include consideration of the following conditions: Is there a fire or danger of fire? Is there a smell of raw or leaking fuel? Is there a chance the bus could be hit by other vehicles? Is the bus in the path of a sighted tornado or rising waters? Are there downed power lines?",
+            "options": [
+              {
+                "answer_id": "32038",
+                "answer": "The position of the bus may change and increase the danger",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32039",
+                "answer": "A student is bleeding profusely",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32040",
+                "answer": "The bus is stalled on a railroad crossing",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "32041",
+                "answer": "The bus is in danger of catching on fire",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_15": {
+            "question_id": "18622",
+            "name": "Passive railroad crossings 10.4.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "This type of crossing does not have any type of traffic control device. You must stop at these crossings and follow proper procedures. However, the decision to proceed rests entirely in your hands. Passive crossings require you to recognize the crossing, search for any train using the tracks and decide if there is sufficient clear space to cross safely. Passive crossings have yellow circular advance warning signs, pavement markings and crossbucks to assist you in recognizing a crossing.",
+            "options": [
+              {
+                "answer_id": "31930",
+                "answer": "Have a traffic devise installed",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31931",
+                "answer": "Have no traffic devise or any type identifiable markings",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31932",
+                "answer": "Have a traffic devise and yellow circular advance warning signs",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31933",
+                "answer": "Have no traffic devise but do have yellow circular advance warning signs",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_16": {
+            "question_id": "18623",
+            "name": "All passenger vehicle must come to a complete stop no closer than ____ feet and no farther away that ____ feet from the nearest rail. 10.4.3",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "Stop no closer than 15 feet and no farther than 50 feet from the nearest rail, where you have the best view of the tracks.",
+            "options": [
+              {
+                "answer_id": "31926",
+                "answer": "10:20",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31927",
+                "answer": "15:50",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31928",
+                "answer": "20:60",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31929",
+                "answer": "20:50",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_17": {
+            "question_id": "18624",
+            "name": "If you are having problems with a student: 10.5.2",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "Follow your school's procedures for discipline or refusal of rights to ride the bus. Stop the bus. Park in a safe location off the road, perhaps a parking lot or a driveway. Secure the bus. Take the ignition key with you if you leave your seat. Stand up and speak respectfully to the offender or offenders. Speak in a courteous manner with a firm voice. Remind the offender of the expected behavior. Do not show anger, but do show that you mean business. If a change of seating is needed, request that the student move to a seat near you. Never put a student off the bus except at school or at his or her designated school bus stop. If you feel that the offense is serious enough that you cannot safely drive the bus, call for a school administrator or the police to come and remove the student. Always follow your state or local procedures for requesting assistance.",
+            "options": [
+              {
+                "answer_id": "31922",
+                "answer": "Never put the student off the bus except for at their designated stop",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31923",
+                "answer": "Pull over to handle the problem",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31924",
+                "answer": "Remind the offender of the expected behavior",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31925",
+                "answer": "All the above are correct",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_18": {
+            "question_id": "18625",
+            "name": "If the bus is equipped with a strobe light: 10.7.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "Some school buses are equipped with roofmounted, white strobe lights. If your bus is so equipped, the overhead strobe light should be used when you have limited visibility.",
+            "options": [
+              {
+                "answer_id": "31918",
+                "answer": "You should only use it if there is an emergency",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31919",
+                "answer": "You should use it only when parked",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31920",
+                "answer": "You should use it when there is limited visibility",
+                "fraction": "1",
+                "ans_order": "3",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31921",
+                "answer": "You should use it all the time",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_19": {
+            "question_id": "18626",
+            "name": "Backing is _______ dangerous. 10.7.3",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "Backing a school bus is strongly discouraged. You should back your bus only when you have no other safe way to move the vehicle. You should never back a school bus when students are outside of the bus. Backing is dangerous and increases your risk of a collision.",
+            "options": [
+              {
+                "answer_id": "31914",
+                "answer": "Always",
+                "fraction": "1",
+                "ans_order": "1",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31915",
+                "answer": "Never",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31916",
+                "answer": "Sometimes",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31917",
+                "answer": "Not dangerous is you use a helper",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_20": {
+            "question_id": "18627",
+            "name": "The convex mirrors should be adjusted to see: 10.1.4",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "You should position these mirrors to see: The entire side of the bus up to the mirror mounts. Front of the rear tires touching the ground. At least one traffic lane on either side of the bus.",
+            "options": [
+              {
+                "answer_id": "31910",
+                "answer": "at least two lanes on either side of the bus",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31911",
+                "answer": "back of the rear tires touching the ground",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31912",
+                "answer": "the entire side of the bus up to the mirror mounts",
+                "fraction": "1",
+                "ans_order": "3",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "31913",
+                "answer": "none of the above are correct",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_21": {
+            "question_id": "19186",
+            "name": "How should you transport passengers? 10.1.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "People sometimes damage unattended buses.Always check the interior of the bus before driving to ensure rider safety. Aisles and stairwells should always be clear. The following parts of your bus must be in safe working condition: Each handhold and railing. Floor covering. Signaling devices, including the restroom emergency buzzer, if the bus has a restroom. Emergency exit handles. The seats must be safe for riders. All seats must be securely fastened to the bus.",
+            "options": [
+              {
+                "answer_id": "34212",
+                "answer": "safely",
+                "fraction": "1",
+                "ans_order": "1",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34213",
+                "answer": "unsafely",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_22": {
+            "question_id": "19191",
+            "name": "The area to the left of the bus is always considered dangerous because: 10.1.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "In addition, the area to the left of the bus is always considered dangerous because of passing cars. Figure 10.1 illustrates these danger zones.",
+            "options": [
+              {
+                "answer_id": "34224",
+                "answer": "The students exit the bus",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34225",
+                "answer": "The passing vehicles",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34226",
+                "answer": "The driver cannot see cars approaching",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34227",
+                "answer": "The area is a blind spot for the driver",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_23": {
+            "question_id": "19192",
+            "name": "The blind spot behind the bus extends from _____ to _____ feet. 10.1.3",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "The blind spot behind the bus extends 5o to 150 feet and could extend up to 400 feet depending on the length and width of the bus.",
+            "options": [
+              {
+                "answer_id": "34228",
+                "answer": "100:150",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34229",
+                "answer": "50:100",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34230",
+                "answer": "25:50",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34231",
+                "answer": "25:75",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_24": {
+            "question_id": "19193",
+            "name": "Outside flat mirrors should be adjusted so the driver can see: 10.1.3",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "Ensure that the mirrors are properly adjusted so you can see: 200 feet or 4 bus lengths behind the bus. Along  the sides of the bus. The rear tires touching the ground.",
+            "options": [
+              {
+                "answer_id": "34232",
+                "answer": "200 feet or 4 bus lengths behind the bus",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34233",
+                "answer": "along the side of the bus",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34234",
+                "answer": "the rear tires touching the ground",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34235",
+                "answer": "all the above are correct",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_25": {
+            "question_id": "19194",
+            "name": "The convex mirrors should be adjusted to see: 10.1.4",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "You should position these mirrors to see: The entire side of the bus up to the mirror mounts. Front of the rear tires touching the ground. At least one traffic lane on either side of the bus.",
+            "options": [
+              {
+                "answer_id": "34236",
+                "answer": "at least two lanes on either side of the bus",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34237",
+                "answer": "back of the rear tires touching the ground",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34238",
+                "answer": "the entire side of the bus up to the mirror mounts",
+                "fraction": "1",
+                "ans_order": "3",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34239",
+                "answer": "none of the above are correct",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_26": {
+            "question_id": "19195",
+            "name": "The crossover mirrors are used to see the danger zones _____ that are not seen by direct vision. 10.1.5",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "These mirrors are mounted on both left and right front corners of the bus. They are used to see the front bumper \"danger zone\" area directly in front of the bus that is not visible by direct vision",
+            "options": [
+              {
+                "answer_id": "34240",
+                "answer": "Directly in front of the bus",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34241",
+                "answer": "Directly to the right and left of the bus",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34242",
+                "answer": "Directly behind the bus",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34243",
+                "answer": "Both a and b are correct",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_27": {
+            "question_id": "19196",
+            "name": "The overhead mirror is used to monitor what? 10.1.6",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "This mirror is used to monitor passenger activity inside the bus.",
+            "options": [
+              {
+                "answer_id": "34244",
+                "answer": "The danger zones",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34245",
+                "answer": "The emergency exits",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34246",
+                "answer": "The passenger activity",
+                "fraction": "1",
+                "ans_order": "3",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34247",
+                "answer": "The student entry way",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_28": {
+            "question_id": "19197",
+            "name": "You can change the location of a bus stop: 10.2.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "You should never change the location of a bus stop without written approval from the appropriate school district official.",
+            "options": [
+              {
+                "answer_id": "34248",
+                "answer": "Anytime as long as you feel it is safe",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34249",
+                "answer": "At the students request",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34250",
+                "answer": "At the parents request",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34251",
+                "answer": "Only with written approval from the school district",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_29": {
+            "question_id": "19198",
+            "name": "If the school bus is equipped with alternating flashing amber warning lights, they should be activated at least _____ feet before the bus stop. 10.2.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "If the school bus is so equipped, activate alternating flashing amber warning lights at least 200 feet or approximately 5-10 seconds before the school bus stop or in accordance with state law.",
+            "options": [
+              {
+                "answer_id": "34252",
+                "answer": "50",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34253",
+                "answer": "100",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34254",
+                "answer": "150",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34255",
+                "answer": "200",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_30": {
+            "question_id": "19199",
+            "name": "When approaching a bus stop, you should bring the bus to a full stop at least _____ feet away from the students. 10.2.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "Bring school bus to a full stop with the front bumper at least 10 feet away from students at the designated stop.",
+            "options": [
+              {
+                "answer_id": "34256",
+                "answer": "5",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34257",
+                "answer": "10",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34258",
+                "answer": "15",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34259",
+                "answer": "20",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_31": {
+            "question_id": "19200",
+            "name": "When the students are entering or exiting the bus, the vehicle must be in _____ and _____. 10.2.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "Place transmission in Park, or if there is no Park shift point, in Neutral and set the parking brake at each stop.",
+            "options": [
+              {
+                "answer_id": "34260",
+                "answer": "Drive: the parking brake on",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34261",
+                "answer": "Park/neutral: the parking brake has to be on",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34262",
+                "answer": "Drive: your foot firmly on the brake pedal",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34263",
+                "answer": "Park/neutral: your foot firmly on the brake pedal",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_32": {
+            "question_id": "19201",
+            "name": "When the students are unloading on the school campus: 10.2.4",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "Turning off the ignition switch. Removing key if leaving driver's compartment. Have the students remain seated until told to exit. Position yourself to supervise unloading as required or recommended by your state or local regulations.",
+            "options": [
+              {
+                "answer_id": "34264",
+                "answer": "Turn the ignition off",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34265",
+                "answer": "Remove the key if leaving the drivers compartment",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34266",
+                "answer": "Supervise the unloading student",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34267",
+                "answer": "All the above are correct",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_33": {
+            "question_id": "19202",
+            "name": "Many students are killed each year: 10.2.5",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "More students are killed while getting on or off a school bus each year than are killed as passengers inside of a school bus.",
+            "options": [
+              {
+                "answer_id": "34268",
+                "answer": "when crossing the street in front of the bus",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34269",
+                "answer": "by cars passing illegally",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34270",
+                "answer": "while getting on or off the bus",
+                "fraction": "1",
+                "ans_order": "3",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34271",
+                "answer": "during fights on the bus",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_34": {
+            "question_id": "19203",
+            "name": "The first action you must take in an emergency is: 10.3.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "The first and most important consideration is for you to recognize the hazard. If time permits, school bus drivers should contact their dispatcher to explain the situation before making a decision to evacuate the school bus.",
+            "options": [
+              {
+                "answer_id": "34272",
+                "answer": "make the student be quiet",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34273",
+                "answer": "determine if you must evacuate",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34274",
+                "answer": "get everyone off quickly",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34275",
+                "answer": "tend to the injured",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_35": {
+            "question_id": "19204",
+            "name": "All the follow are reasons for an mandatory evacuation, except: 10.3.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "A decision to evacuate should include consideration of the following conditions: Is there a fire or danger of fire? Is there a smell of raw or leaking fuel? Is there a chance the bus could be hit by other vehicles? Is the bus in the path of a sighted tornado or rising waters? Are there downed power lines?",
+            "options": [
+              {
+                "answer_id": "34276",
+                "answer": "The position of the bus may change and increase the danger",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34277",
+                "answer": "A student is bleeding profusely",
+                "fraction": "1",
+                "ans_order": "2",
+                "is_answer": true,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34278",
+                "answer": "The bus is stalled on a railroad crossing",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34279",
+                "answer": "The bus is in danger of catching on fire",
+                "fraction": "0",
+                "ans_order": "4",
+                "is_answer": false,
+                "user_answer": false
+              }
+            ]
+          },
+          "question_36": {
+            "question_id": "19205",
+            "name": "Passive railroad crossings.... 10.4.1",
+            "is_complete": false,
+            "is_active": false,
+            "question_type": "multi_choice",
+            "default_grade": "5.00",
+            "general_feedback": "This type of crossing does not have any type of traffic control device. You must stop at these crossings and follow proper procedures. However, the decision to proceed rests entirely in your hands. Passive crossings require you to recognize the crossing, search for any train using the tracks and decide if there is sufficient clear space to cross safely. Passive crossings have yellow circular advance warning signs, pavement markings and crossbucks to assist you in recognizing a crossing.",
+            "options": [
+              {
+                "answer_id": "34280",
+                "answer": "Have a traffic devise installed",
+                "fraction": "0",
+                "ans_order": "1",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34281",
+                "answer": "Have no traffic devise or any type identifiable markings",
+                "fraction": "0",
+                "ans_order": "2",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34282",
+                "answer": "Have a traffic devise and yellow circular advance warning signs",
+                "fraction": "0",
+                "ans_order": "3",
+                "is_answer": false,
+                "user_answer": false
+              },
+              {
+                "answer_id": "34283",
+                "answer": "Have no traffic devise but do have yellow circular advance warning signs",
+                "fraction": "1",
+                "ans_order": "4",
+                "is_answer": true,
+                "user_answer": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

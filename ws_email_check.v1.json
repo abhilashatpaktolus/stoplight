@@ -1,0 +1,17 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "ws_email_check",
+    "version": "1.0",
+    "description": "NO DESCRIPTION"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3100"
+    }
+  ],
+  "paths": {},
+  "components": {
+    "securitySchemes": {}
+  }
+}
